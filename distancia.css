@@ -1,0 +1,28 @@
+.padre{
+    border:2px solid black;
+    
+    display: flex;
+    justify-content: space-between;
+  
+
+
+}
+.hijo{
+    width: 200px;
+    height: 200px;
+    display: flex ;
+    justify-content: center ;
+    align-items: center;
+    color: white;
+
+
+}
+.uno{
+    background-color: red;
+}
+.dos{
+    background-color: blue;
+}
+.tres{
+    background-color: green;
+}
